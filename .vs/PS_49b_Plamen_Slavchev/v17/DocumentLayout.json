@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|c:\\users\\user\\onedrive - technical university of sofia\\desktop\\ps_49b_plamen_slavchev\\ps_49b_plamen_slavchev\\maui\\components\\datetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|solutionrelative:maui\\components\\datetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|c:\\users\\user\\onedrive - technical university of sofia\\desktop\\ps_49b_plamen_slavchev\\ps_49b_plamen_slavchev\\maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|solutionrelative:maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|c:\\users\\user\\onedrive - technical university of sofia\\desktop\\ps_49b_plamen_slavchev\\ps_49b_plamen_slavchev\\maui\\views\\logpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|solutionrelative:maui\\views\\logpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|c:\\users\\user\\onedrive - technical university of sofia\\desktop\\ps_49b_plamen_slavchev\\ps_49b_plamen_slavchev\\maui\\views\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|solutionrelative:maui\\views\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|c:\\users\\user\\onedrive - technical university of sofia\\desktop\\ps_49b_plamen_slavchev\\ps_49b_plamen_slavchev\\maui\\components\\displayusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|solutionrelative:maui\\components\\displayusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|c:\\users\\user\\onedrive - technical university of sofia\\desktop\\ps_49b_plamen_slavchev\\ps_49b_plamen_slavchev\\maui\\components\\displaylogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B61FDF9-3374-4B8F-8B45-3C72F851C145}|MAUI\\MAUI.csproj|solutionrelative:maui\\components\\displaylogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Components\\DateToColorConverter.cs",
+              "RelativeDocumentMoniker": "MAUI\\Components\\DateToColorConverter.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Components\\DateToColorConverter.cs",
+              "RelativeToolTip": "MAUI\\Components\\DateToColorConverter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:09:57.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayUsers.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Components\\DisplayUsers.xaml",
+              "RelativeDocumentMoniker": "MAUI\\Components\\DisplayUsers.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Components\\DisplayUsers.xaml",
+              "RelativeToolTip": "MAUI\\Components\\DisplayUsers.xaml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T15:42:13.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MAUI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\AppShell.xaml",
+              "RelativeToolTip": "MAUI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T15:32:45.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayLogs.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Components\\DisplayLogs.xaml",
+              "RelativeDocumentMoniker": "MAUI\\Components\\DisplayLogs.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Components\\DisplayLogs.xaml",
+              "RelativeToolTip": "MAUI\\Components\\DisplayLogs.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T15:43:52.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Views\\UserPage.xaml",
+              "RelativeDocumentMoniker": "MAUI\\Views\\UserPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Views\\UserPage.xaml",
+              "RelativeToolTip": "MAUI\\Views\\UserPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T15:35:57.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Views\\LogPage.xaml",
+              "RelativeDocumentMoniker": "MAUI\\Views\\LogPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Sofia\\desktop\\PS_49b_Plamen_Slavchev\\PS_49b_Plamen_Slavchev\\MAUI\\Views\\LogPage.xaml",
+              "RelativeToolTip": "MAUI\\Views\\LogPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T15:34:49.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

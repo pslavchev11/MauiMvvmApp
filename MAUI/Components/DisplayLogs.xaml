@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI.Components.DisplayLogs"
+             xmlns:viewmodels="clr-namespace:MAUI.ViewModels">
+
+    <!-- ViewModel Binding -->
+    <ContentView.BindingContext>
+        <viewmodels:LogEntityViewModel/>
+    </ContentView.BindingContext>
+
+    <StackLayout Padding="10" Spacing="10">
+
+        <!-- Header Section -->
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Label Text="Logs" TextColor="MediumPurple" FontSize="Large" 
+                   HorizontalOptions="Center" FontAttributes="Bold" />
+            <Label Grid.Row="1" Text="Log Dates" FontSize="Medium" 
+                   TextColor="MediumPurple" HorizontalOptions="StartAndExpand" FontAttributes="Bold" />
+        </Grid>
+
+        <!-- Filter Section -->
+        <StackLayout Orientation="Horizontal" Spacing="10">
+            <Picker Title="Filter by Type"
+                    ItemsSource="{Binding MessageTypes}"
+                    SelectedItem="{Binding SelectedMessageType}" 
+                    WidthRequest="200" />
+           
+        </StackLayout>
+
+        <!-- Logs List -->
+        <ListView BackgroundColor="Black" 
+                  ItemsSource="{Binding FilteredLogs}" 
+                  SelectedItem="{Binding SelectionEntity}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="5">
+                            <!-- Log Time -->
+                            <Label Text="{Binding Time, StringFormat='{0:MM/dd/yyyy HH:mm:ss}'}" 
+                                   HorizontalOptions="StartAndExpand" 
+                                   TextColor="White" FontSize="Medium" FontAttributes="Bold" />
+                            <!-- Log Message -->
+                            <Label Text="{Binding Message}" 
+                                   HorizontalOptions="EndAndExpand" 
+                                   TextColor="White" FontSize="Small" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentView>

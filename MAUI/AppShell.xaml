@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:MAUI.Views"
+       x:Class="MAUI.AppShell">
+
+    <FlyoutItem Title="Home">
+        <ShellContent ContentTemplate="{DataTemplate local:HomePage}" Route="HomePage" />
+    </FlyoutItem>
+    
+    <!-- Routes for Users and Logs Pages -->
+    <FlyoutItem Title="Users">
+        <ShellContent Route="UsersPage" ContentTemplate="{DataTemplate local:UserPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Logs">
+        <ShellContent Route="LogsPage" ContentTemplate="{DataTemplate local:LogPage}" />
+    </FlyoutItem>
+</Shell>

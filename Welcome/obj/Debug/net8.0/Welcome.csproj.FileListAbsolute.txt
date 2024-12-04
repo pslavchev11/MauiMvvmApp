@@ -1,0 +1,33 @@
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\bin\Debug\net8.0\Welcome.deps.json
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\bin\Debug\net8.0\Welcome.dll
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\bin\Debug\net8.0\Welcome.pdb
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.dll
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.pdb
+D:\Programming\C#\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\ref\Welcome.dll
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\Welcome\obj\Debug\net8.0\ref\Welcome.dll
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\Welcome\obj\Debug\net8.0\ref\Welcome.dll

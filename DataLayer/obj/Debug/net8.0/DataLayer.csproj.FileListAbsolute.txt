@@ -1,0 +1,51 @@
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\Welcome.dll
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\Welcome.pdb
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\Programming\C#\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\Welcome.dll
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\bin\Debug\net8.0\Welcome.pdb
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+C:\Users\User\Downloads\PS_49_Petar_Stoykov 1\PS_49_Petar_Stoykov\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\bin\Debug\net8.0\Welcome.dll
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\bin\Debug\net8.0\Welcome.pdb
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+C:\Users\User\OneDrive - Technical University of Sofia\desktop\PS_49b_Plamen_Slavchev\PS_49b_Plamen_Slavchev\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

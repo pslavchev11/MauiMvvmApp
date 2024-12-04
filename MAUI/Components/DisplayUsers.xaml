@@ -1,0 +1,64 @@
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI.Components.DisplayUsers"
+             xmlns:viewmodels="clr-namespace:MAUI.ViewModels"
+             xmlns:converters="clr-namespace:MAUI.Components"
+             xmlns:others="clr-namespace:Welcome.Others;assembly=Welcome">
+
+    <ContentView.Resources>
+        <converters:PasswordMaskConverter x:Key="MaskPassword"/>
+        <converters:DateToColorConverter x:Key="DateToColor"/>
+    </ContentView.Resources>
+
+    <ContentView.BindingContext>
+        <viewmodels:DatabaseUserViewModel/>
+    </ContentView.BindingContext>
+
+    <StackLayout Padding="10" Spacing="10">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Header Label -->
+            <Label Text="Users" 
+                   TextColor="MediumPurple" 
+                   FontSize="Large" 
+                   HorizontalOptions="Center" 
+                   FontAttributes="Bold"/>
+
+            <!-- Picker for Role Filter -->
+            <Picker Grid.Row="1" 
+                    Title="Filter by Role" 
+                    ItemsSource="{Binding Roles}" 
+                    SelectedItem="{Binding SelectedRole}" 
+                    TextColor="MediumPurple" 
+                    HorizontalOptions="StartAndExpand"
+                    />
+        </Grid>
+
+        <!-- ListView for Displaying Users -->
+        <ListView BackgroundColor="Black" 
+                  ItemsSource="{Binding FilteredUsers}" 
+                  SelectedItem="{Binding SelectedUser}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="10">
+                            <Label Text="{Binding Id}" HorizontalOptions="StartAndExpand"/>
+                            <Label Text="{Binding Name}" HorizontalOptions="StartAndExpand" />
+                            <Label Text="{Binding Email}" HorizontalOptions="StartAndExpand" />
+                            <Label Text="{Binding Password, Converter={StaticResource MaskPassword}}" 
+                                   HorizontalOptions="StartAndExpand" />
+                            <Label Text="{Binding Role}" HorizontalOptions="StartAndExpand"/>
+                            <Label Text="{Binding ExpiresDate}" 
+                                   TextColor="{Binding ExpiresDate, Converter={StaticResource DateToColor}}" 
+                                   HorizontalOptions="StartAndExpand" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentView>
