@@ -63,5 +63,5 @@ To build and run the project, you need the following:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/maui-mvvm-app.git
-cd maui-mvvm-app
+git clone https://github.com/pslavchev11/MauiMvvmApp.git
+cd MauiMvvmApp
