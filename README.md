@@ -35,7 +35,7 @@ The **MAUI MVVM App** is a cross-platform application built using **.NET MAUI**.
 ## Screenshots
 
 ### **Home Page**
-![Home Page](![image](https://github.com/user-attachments/assets/fe52b7d5-1215-48b7-a246-90773af60b6f))
+![Home Page](https://scontent.xx.fbcdn.net/v/t1.15752-9/462566722_1346077263069294_6566579742989349258_n.png?stp=dst-png_s720x720&_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Sb_R50FLBHoQ7kNvgEPhBIv&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHBDV_LQf2mimSaqGjO-DpSpoXlQ8ifpMQvhm6TJr1H5Q&oe=677A9886)
 
 ### **User Management**
 ![User Management](./screenshots/user_management.png)
