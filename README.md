@@ -43,6 +43,9 @@ The **MAUI MVVM App** is a cross-platform application built using **.NET MAUI**.
 ### **Log Management**
 ![Log Management](./screenshots/log_management.png)
 
+### **Menu**
+![Menu](./screenshots/home_page.png)
+
 ---
 
 ## Requirements
